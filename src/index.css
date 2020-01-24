@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.tele{
+  display: flex;
+  border: 1px solid silver;
+  padding: 4px;
+}
+
+.month700{
+  border: 1px solid silver;
+  padding-left: 2px;
+  margin: 2px;
+  /* background: rebeccapurple; */
+}
+
+h3{
+  font-size: 30px;
+}
+
+
