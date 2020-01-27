@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Tele(props) {
+export default function Tariff(props) {
     return (
         
         <article> 
